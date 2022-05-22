@@ -1,6 +1,0 @@
-    
-    This is branch2.
-    We'll see how merging problem is occured and solved.
-
-
-
