@@ -1,0 +1,10 @@
+
+  vim
+  ---
+  i = insert
+  esc = escape
+  :wq = save and quit 
+  Enter = Return Carriage.
+
+  This file is modified using vim.
+
